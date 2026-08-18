@@ -1,34 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,75:0891B2,100:22D3EE&height=220&section=header&text=Héctor%20Antolínez%20Rojas&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Data%20Analytics%20·%20Automation%20·%20Computer%20Vision%20·%20Cybersecurity&descAlignY=56&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,75:0891B2,100:22D3EE&height=215&section=header&text=Héctor%20Antolínez%20Rojas&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Data%20Analytics%20·%20Automation%20·%20Computer%20Vision%20·%20Cybersecurity&descAlignY=56&descSize=17" />
 
-### `Data Analytics` · `Automation` · `Computer Vision` · `Cybersecurity`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Naiker-96&style=for-the-badge&color=0891B2&label=VISITAS" />
-<a href="https://github.com/Naiker-96?tab=followers"><img src="https://img.shields.io/github/followers/Naiker-96?label=SEGUIDORES&style=for-the-badge&color=312E81" /></a>
 <a href="https://www.linkedin.com/in/hector-antolinez-rojas-067a0115a/"><img src="https://img.shields.io/badge/LinkedIn-Héctor_Antolínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:hector161096@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Naiker-96?tab=followers"><img src="https://img.shields.io/github/followers/Naiker-96?label=Seguidores&style=for-the-badge&color=312E81" /></a>
 
 </div>
 
----
+## 👨‍💻 Perfil
 
-## 👨‍💻 Sobre mí
+Estudiante de **Ingeniería de Sistemas y Computación** de la Universidad Católica de Colombia, con experiencia práctica en **analítica de datos, automatización de procesos y desarrollo de soluciones tecnológicas**.
 
-Soy estudiante de **Ingeniería de Sistemas y Computación** de la Universidad Católica de Colombia, con experiencia práctica en **analítica de datos, automatización de procesos y desarrollo de soluciones tecnológicas**.
+Durante mi práctica profesional en **Keralty (Colsanitas)** trabajé con **BigQuery, Looker Studio, Google Cloud Storage, Apps Script, AppSheet, SQL, HTML y JavaScript** para integrar datos, automatizar procesos internos y construir herramientas de seguimiento.
 
-Realicé mi práctica profesional en **Keralty (Colsanitas)**, donde trabajé con **Google Cloud Platform, BigQuery, Looker Studio, Google Cloud Storage, Apps Script, AppSheet, SQL, HTML y JavaScript** para automatizar procesos internos, integrar fuentes de datos y construir tableros de seguimiento.
+Actualmente complemento ese perfil con proyectos de **visión por computador** y aprendizaje práctico en **ciberseguridad y pentesting**.
 
-También desarrollo proyectos personales relacionados con **visión por computador** y continúo fortaleciendo mis conocimientos en **ciberseguridad y pentesting** mediante laboratorios prácticos y documentación técnica.
-
-### 🏆 Highlights
+### 🏆 En pocas líneas
 
 - 🥇 **1.er puesto — Hackathon XII Semana de Ingeniería (2025)**
 - 🥈 **2.º puesto — Hackathon XI Semana de Ingeniería (2024)**
-- 📊 Experiencia profesional en **Analítica de Datos — Keralty / Colsanitas**
-- 🤖 Proyecto de **Smart Checkout con YOLO11 + OpenCV**
-- 🛡️ Writeups de laboratorios de **pentesting y escalada de privilegios**
+- 📊 Experiencia en **Analítica de Datos — Keralty / Colsanitas**
+- 🤖 Desarrollo de **Smart Checkout con YOLO11 + OpenCV**
+- 🛡️ Documentación de laboratorios de **pentesting en entornos controlados**
 
 ---
 
@@ -40,31 +34,26 @@ También desarrollo proyectos personales relacionados con **visión por computad
 
 ### 🤖 Tienda IA
 
-Sistema de autoservicio inteligente con **visión por computador** que detecta productos y reconoce billetes colombianos en tiempo real.
+**Smart Checkout con visión por computador.**
 
-**Stack:** `Python` · `YOLO11` · `OpenCV`
+Detecta productos y billetes colombianos en tiempo real mediante una cámara web, construye la lista de compra y procesa el pago.
 
-- Detección de productos en tiempo real
-- Reconocimiento de billetes colombianos
-- Lista de compra automática
-- Cálculo de total, saldo y cambio
+`Python` · `YOLO11` · `OpenCV`
 
-<a href="https://github.com/Naiker-96/TiendaIA"><b>Ver repositorio →</b></a>
+**[Explorar proyecto →](https://github.com/Naiker-96/TiendaIA)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ DockerLabs Writeups
 
-Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendizaje práctico en ciberseguridad.
+**Portafolio de aprendizaje en ciberseguridad ofensiva.**
 
-**Enfoque:** `Reconocimiento` · `Enumeración` · `Explotación` · `Escalada de privilegios`
+Writeups estructurados con reconocimiento, enumeración, explotación, escalada de privilegios y lecciones aprendidas.
 
-- Metodología documentada
-- Evidencias y capturas
-- Aprendizaje práctico de Linux y pentesting
+`Kali Linux` · `DockerLabs` · `Pentesting`
 
-<a href="https://github.com/Naiker-96/dockerlabs-writeups"><b>Ver repositorio →</b></a>
+**[Explorar writeups →](https://github.com/Naiker-96/dockerlabs-writeups)**
 
 </td>
 </tr>
@@ -72,19 +61,19 @@ Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendi
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧰 Stack
 
 ### 📊 Data & Automation
 
 <div align="center">
 
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
-![AppSheet](https://img.shields.io/badge/AppSheet-00B8D9?style=for-the-badge&logo=google&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
+![AppSheet](https://img.shields.io/badge/AppSheet-00B8D9?style=flat-square&logo=google&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -96,8 +85,8 @@ Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendi
 
 <br><br>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO11](https://img.shields.io/badge/YOLO11-111F68?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO11](https://img.shields.io/badge/YOLO11-111F68?style=flat-square)
 
 </div>
 
@@ -105,32 +94,18 @@ Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,git&theme=dark" alt="Kali Linux Bash Git" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" alt="Kali Linux Bash" />
 
 <br><br>
 
-![Pentesting](https://img.shields.io/badge/Pentesting-Labs-111827?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pentesting](https://img.shields.io/badge/Pentesting-Labs-111827?style=flat-square&logo=kalilinux&logoColor=white)
+![DockerLabs](https://img.shields.io/badge/DockerLabs-Práctica-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naiker-96&bg_color=0d1117&color=22d3ee&line=7c3aed&point=22d3ee&area=true&hide_border=true" alt="Actividad de GitHub" />
-
-<br><br>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naiker-96&theme=tokyonight" alt="Resumen de perfil" />
-
-</div>
-
----
-
-## 🐍 Contribuciones
+## 🐍 Actividad
 
 <div align="center">
 
@@ -148,13 +123,17 @@ Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendi
 
 <div align="center">
 
+**Bogotá, Colombia 🇨🇴**
+
+<br>
+
 <a href="https://www.linkedin.com/in/hector-antolinez-rojas-067a0115a/"><img src="https://img.shields.io/badge/LinkedIn-Héctor_Antolínez_Rojas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hector161096@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hector161096@gmail.com"><img src="https://img.shields.io/badge/Gmail-hector161096%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
-<sub>Data · Automation · AI · Security · Learn · Build · Improve</sub>
+<sub>Data · Automation · Computer Vision · Cybersecurity</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:312E81,100:0F172A&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:312E81,100:0F172A&height=100&section=footer" />
