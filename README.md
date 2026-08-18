@@ -7,6 +7,7 @@
 <a href="https://wa.me/573136086631"><img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://github.com/Naiker-96/Naiker-96/raw/main/docs/Hector_Antolinez_CV.pdf"><img src="https://img.shields.io/badge/CV-Descargar-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 <a href="https://github.com/Naiker-96?tab=followers"><img src="https://img.shields.io/github/followers/Naiker-96?label=Seguidores&style=for-the-badge&color=312E81" /></a>
+<img src="https://komarev.com/ghpvc/?username=Naiker-96&style=for-the-badge&color=0891B2&label=VISITAS" alt="Visitas al perfil" />
 
 </div>
 
