@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/hector-antolinez-rojas-067a0115a/"><img src="https://img.shields.io/badge/LinkedIn-Héctor_Antolínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hector161096@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/573136086631"><img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/Naiker-96/Naiker-96/raw/main/docs/Hector_Antolinez_CV.pdf"><img src="https://img.shields.io/badge/CV-Descargar-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 <a href="https://github.com/Naiker-96?tab=followers"><img src="https://img.shields.io/github/followers/Naiker-96?label=Seguidores&style=for-the-badge&color=312E81" /></a>
 
 </div>
@@ -151,6 +152,24 @@ Práctica en **laboratorios controlados**, documentación de writeups y fortalec
 <div align="center">
 
 > **Construir, medir, automatizar y seguir aprendiendo.**
+
+</div>
+
+---
+
+## 📄 Curriculum Vitae
+
+<div align="center">
+
+¿Quieres conocer con más detalle mi experiencia, formación, proyectos y certificaciones?
+
+<br>
+
+<a href="https://github.com/Naiker-96/Naiker-96/raw/main/docs/Hector_Antolinez_CV.pdf"><img src="https://img.shields.io/badge/📄_DESCARGAR_CV-Héctor_Antolínez-7C3AED?style=for-the-badge" /></a>
+
+<br><br>
+
+<sub>PDF disponible directamente desde este repositorio.</sub>
 
 </div>
 
