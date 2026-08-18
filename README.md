@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,75:0891B2,100:22D3EE&height=220&section=header&text=Héctor%20Antolínez%20Rojas&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Data%20Analytics%20·%20Automation%20·%20Computer%20Vision%20·%20Cybersecurity&descAlignY=56&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=Transformando+datos+en+soluciones;Automatizando+procesos+con+tecnología;Construyendo+con+Computer+Vision;Aprendiendo+y+practicando+Cybersecurity" alt="Typing SVG" />
+### `Data Analytics` · `Automation` · `Computer Vision` · `Cybersecurity`
 
 <br>
 
@@ -92,10 +92,12 @@ Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendi
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=py,js,java,cpp,html,css,git,linux)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=py,js,java,cpp,html,css,git,linux&theme=dark" alt="Python JavaScript Java C++ HTML CSS Git Linux" />
+
+<br><br>
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO11-111F68?style=for-the-badge)
+![YOLO11](https://img.shields.io/badge/YOLO11-111F68?style=for-the-badge)
 
 </div>
 
@@ -103,7 +105,12 @@ Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendi
 
 <div align="center">
 
-[![Security](https://skillicons.dev/icons?i=kali,linux,bash,git)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,git&theme=dark" alt="Kali Linux Bash Git" />
+
+<br><br>
+
+![Pentesting](https://img.shields.io/badge/Pentesting-Labs-111827?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -113,14 +120,9 @@ Documentación paso a paso de máquinas vulnerables resueltas durante mi aprendi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Naiker-96&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naiker-96&layout=compact&locale=es&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-
-<br><br>
-
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naiker-96&bg_color=0d1117&color=22d3ee&line=7c3aed&point=22d3ee&area=true&hide_border=true" alt="Actividad de GitHub" />
 
-<br>
+<br><br>
 
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naiker-96&theme=tokyonight" alt="Resumen de perfil" />
 
