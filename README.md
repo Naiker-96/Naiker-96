@@ -106,15 +106,37 @@ Writeups estructurados con reconocimiento, enumeración, explotación, escalada 
 
 ---
 
-## 🐍 Actividad
+## 🎯 En qué estoy enfocado
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Data
+
+Construcción de soluciones con **BigQuery, SQL, Looker Studio y automatización de procesos**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Computer Vision
+
+Experimentación con **YOLO, OpenCV y sistemas de detección en tiempo real**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Cybersecurity
+
+Práctica en **laboratorios controlados**, documentación de writeups y fortalecimiento de fundamentos ofensivos y defensivos.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naiker-96/Naiker-96/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naiker-96/Naiker-96/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Naiker-96/Naiker-96/output/github-snake.svg">
-</picture>
+> **Construir, medir, automatizar y seguir aprendiendo.**
 
 </div>
 
@@ -134,8 +156,12 @@ Writeups estructurados con reconocimiento, enumeración, explotación, escalada 
 
 <br><br>
 
+**¿Tienes un proyecto, una oportunidad o quieres hablar de tecnología? Escríbeme.**
+
+<br>
+
 <sub>Data · Automation · Computer Vision · Cybersecurity</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:312E81,100:0F172A&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:312E81,100:0F172A&height=90&section=footer" />
