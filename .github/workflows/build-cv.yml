@@ -1,0 +1,27 @@
+name: Build CV PDF
+
+on:
+  push:
+    paths:
+      - 'cv_source/READY'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild exact CV PDF
+        run: |
+          cat cv_source/part_*.b64 | tr -d '\n' | base64 -d > docs/Hector_Antolinez_CV.pdf
+          test "$(sha256sum docs/Hector_Antolinez_CV.pdf | awk '{print $1}')" = "7b2b1fa4f2e1a992b4f788eed7ba212d1dcb222ca8327e143f5e9b396f59d155"
+      - name: Commit CV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/Hector_Antolinez_CV.pdf
+          git diff --cached --quiet || git commit -m "Publish exact CV PDF"
+          git push
