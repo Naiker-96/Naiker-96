@@ -106,6 +106,20 @@ Writeups estructurados con reconocimiento, enumeración, explotación, escalada 
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Naiker-96&bg_color=0d1117&color=22d3ee&line=7c3aed&point=22d3ee&area=true&hide_border=true" alt="Gráfica de actividad de GitHub" />
+
+<br><br>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naiker-96&theme=tokyonight" alt="Resumen de actividad de GitHub" />
+
+</div>
+
+---
+
 ## 🎯 En qué estoy enfocado
 
 <table>
