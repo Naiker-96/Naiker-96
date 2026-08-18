@@ -4,6 +4,7 @@
 
 <a href="https://www.linkedin.com/in/hector-antolinez-rojas-067a0115a/"><img src="https://img.shields.io/badge/LinkedIn-Héctor_Antolínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hector161096@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/573136086631"><img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://github.com/Naiker-96?tab=followers"><img src="https://img.shields.io/github/followers/Naiker-96?label=Seguidores&style=for-the-badge&color=312E81" /></a>
 
 </div>
@@ -129,6 +130,7 @@ Writeups estructurados con reconocimiento, enumeración, explotación, escalada 
 
 <a href="https://www.linkedin.com/in/hector-antolinez-rojas-067a0115a/"><img src="https://img.shields.io/badge/LinkedIn-Héctor_Antolínez_Rojas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:hector161096@gmail.com"><img src="https://img.shields.io/badge/Gmail-hector161096%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/573136086631"><img src="https://img.shields.io/badge/WhatsApp-313_608_6631-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <br><br>
 
